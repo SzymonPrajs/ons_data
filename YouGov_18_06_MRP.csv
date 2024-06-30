@@ -1,0 +1,632 @@
+PCON25CD,PCON25NM,Region,Con,Lab,LD,Ref,Other
+E14001064,Aldridge-Brownhills,West Midlands,0.39,0.32,0.05,0.19,0.05
+E14001067,Arundel and South Downs,South East,0.41,0.2,0.15,0.17,0.07
+E14001082,Beaconsfield,South East,0.38,0.27,0.11,0.19,0.05
+E14001114,Boston and Skegness,East Midlands,0.37,0.26,0.05,0.29,0.03
+E14001121,Braintree,East of England,0.34,0.31,0.07,0.22,0.06
+E14001125,Brentwood and Ongar,East of England,0.35,0.24,0.14,0.22,0.05
+E14001126,Bridgwater,South West,0.3,0.28,0.14,0.23,0.05
+E14001127,Bridlington and The Wolds,Yorkshire and The Humber,0.37,0.29,0.08,0.21,0.05
+E14001128,Brigg and Immingham,Yorkshire and The Humber,0.36,0.33,0.04,0.23,0.04
+E14001137,Bromley and Biggin Hill,London,0.33,0.32,0.15,0.13,0.07
+E14001138,Bromsgrove,West Midlands,0.34,0.3,0.11,0.2,0.05
+E14001154,Castle Point,East of England,0.4,0.26,0.05,0.27,0.02
+E14001156,Central Suffolk and North Ipswich,East of England,0.33,0.33,0.07,0.2,0.07
+E14001164,Chester South and Eddisbury,North West,0.38,0.34,0.1,0.14,0.04
+E14001171,Christchurch,South West,0.35,0.14,0.24,0.23,0.04
+E14001192,Daventry,East Midlands,0.35,0.29,0.07,0.23,0.06
+E14001203,Droitwich and Evesham,West Midlands,0.37,0.3,0.07,0.21,0.05
+E14001212,East Grinstead and Uckfield,South East,0.34,0.2,0.29,0.0,0.17
+E14001215,East Surrey,South East,0.36,0.18,0.24,0.17,0.05
+E14001217,East Wiltshire,South West,0.34,0.31,0.08,0.19,0.08
+E14001226,Epping Forest,East of England,0.37,0.34,0.1,0.0,0.19
+E14001227,Epsom and Ewell,South East,0.35,0.2,0.26,0.15,0.04
+E14001232,Exmouth and Exeter East,South West,0.3,0.25,0.14,0.2,0.11
+E14001233,Fareham and Waterlooville,South East,0.33,0.22,0.21,0.19,0.05
+E14001234,Farnham and Bordon,South East,0.38,0.12,0.33,0.13,0.04
+E14001238,Finchley and Golders Green,London,0.36,0.35,0.13,0.09,0.07
+E14001242,Fylde,North West,0.36,0.31,0.06,0.2,0.07
+E14001243,Gainsborough,East Midlands,0.4,0.29,0.07,0.2,0.04
+E14001250,Goole and Pocklington,Yorkshire and The Humber,0.36,0.32,0.05,0.21,0.06
+E14001252,Gosport,South East,0.36,0.28,0.11,0.19,0.06
+E14001253,Grantham and Bourne,East Midlands,0.33,0.27,0.1,0.24,0.06
+E14001263,Hamble Valley,South East,0.38,0.17,0.27,0.14,0.04
+E14001275,Havant,South East,0.29,0.27,0.09,0.29,0.06
+E14001281,Hereford and South Herefordshire,West Midlands,0.33,0.3,0.11,0.19,0.07
+E14001282,Herne Bay and Sandwich,South East,0.38,0.3,0.07,0.17,0.08
+E14001284,Hertsmere,East of England,0.43,0.33,0.06,0.13,0.05
+E14001288,Hinckley and Bosworth,East Midlands,0.37,0.17,0.26,0.15,0.05
+E14001292,Hornchurch and Upminster,London,0.35,0.35,0.05,0.2,0.05
+E14001294,Horsham,South East,0.35,0.14,0.32,0.14,0.05
+E14001309,Kenilworth and Southam,West Midlands,0.39,0.3,0.09,0.14,0.08
+E14001316,Kingswinford and South Staffordshire,West Midlands,0.38,0.28,0.03,0.25,0.06
+E14001349,Maidstone and Malling,South East,0.32,0.19,0.2,0.2,0.09
+E14001351,Maldon,East of England,0.37,0.23,0.08,0.28,0.04
+E14001356,Melksham and Devizes,South West,0.35,0.12,0.34,0.14,0.05
+E14001358,Meriden and Solihull East,West Midlands,0.36,0.32,0.09,0.19,0.04
+E14001360,Mid Buckinghamshire,South East,0.39,0.17,0.23,0.16,0.05
+E14001365,Mid Norfolk,East of England,0.37,0.31,0.07,0.22,0.03
+E14001373,New Forest East,South East,0.34,0.22,0.15,0.23,0.06
+E14001374,New Forest West,South East,0.41,0.2,0.16,0.15,0.08
+E14001381,Newton Abbot,South West,0.29,0.16,0.25,0.23,0.07
+E14001384,North Bedfordshire,East of England,0.37,0.28,0.13,0.18,0.04
+E14001386,North Cotswolds,South West,0.38,0.16,0.24,0.13,0.09
+E14001388,North Dorset,South West,0.35,0.13,0.27,0.19,0.06
+E14001390,North East Cambridgeshire,East of England,0.35,0.27,0.09,0.24,0.05
+E14001392,North East Hampshire,South East,0.36,0.11,0.33,0.16,0.04
+E14001395,North Herefordshire,West Midlands,0.34,0.16,0.11,0.19,0.2
+E14001402,North West Essex,East of England,0.4,0.24,0.16,0.13,0.07
+E14001403,North West Hampshire,South East,0.34,0.22,0.2,0.18,0.06
+E14001405,North West Norfolk,East of England,0.33,0.28,0.12,0.23,0.04
+E14001417,Orpington,London,0.37,0.27,0.14,0.17,0.05
+E14001429,Poole,South West,0.32,0.29,0.12,0.21,0.06
+E14001437,Rayleigh and Wickford,East of England,0.4,0.26,0.08,0.21,0.05
+E14001442,Reigate,South East,0.38,0.24,0.13,0.16,0.09
+E14001444,Richmond and Northallerton,Yorkshire and The Humber,0.41,0.26,0.1,0.17,0.06
+E14001448,Romford,London,0.35,0.33,0.05,0.2,0.07
+E14001454,"Ruislip, Northwood and Pinner",London,0.35,0.34,0.11,0.15,0.05
+E14001456,Runnymede and Weybridge,South East,0.33,0.17,0.29,0.14,0.07
+E14001458,Rutland and Stamford,East Midlands,0.4,0.19,0.18,0.18,0.05
+E14001460,Salisbury,South West,0.32,0.2,0.22,0.19,0.07
+E14001465,Sevenoaks,South East,0.37,0.14,0.25,0.17,0.07
+E14001475,Skipton and Ripon,Yorkshire and The Humber,0.35,0.31,0.11,0.18,0.05
+E14001476,Sleaford and North Hykeham,East Midlands,0.37,0.31,0.07,0.2,0.05
+E14001479,Solihull West and Shirley,West Midlands,0.35,0.29,0.19,0.13,0.04
+E14001485,South Dorset,South West,0.31,0.28,0.12,0.2,0.09
+E14001486,South East Cornwall,South West,0.34,0.28,0.13,0.2,0.05
+E14001487,South Holland and The Deepings,East Midlands,0.32,0.29,0.05,0.31,0.03
+E14001488,South Leicestershire,East Midlands,0.4,0.28,0.11,0.17,0.04
+E14001490,South Northamptonshire,East Midlands,0.33,0.31,0.09,0.21,0.06
+E14001493,South Shropshire,West Midlands,0.31,0.17,0.3,0.18,0.04
+E14001494,South Suffolk,East of England,0.36,0.27,0.08,0.21,0.08
+E14001495,South West Devon,South West,0.37,0.28,0.11,0.16,0.08
+E14001496,South West Hertfordshire,East of England,0.34,0.28,0.16,0.17,0.05
+E14001497,South West Norfolk,East of England,0.33,0.29,0.06,0.25,0.07
+E14001498,South West Wiltshire,South West,0.3,0.3,0.11,0.2,0.09
+E14001530,Suffolk Coastal,East of England,0.32,0.31,0.09,0.2,0.08
+E14001533,Sussex Weald,South East,0.36,0.17,0.25,0.17,0.05
+E14001535,Sutton Coldfield,West Midlands,0.4,0.35,0.05,0.14,0.06
+E14001538,Tamworth,West Midlands,0.32,0.32,0.05,0.26,0.05
+E14001539,Tatton,North West,0.36,0.35,0.12,0.11,0.06
+E14001542,Tewkesbury,South West,0.32,0.15,0.3,0.17,0.06
+E14001543,The Wrekin,West Midlands,0.34,0.32,0.09,0.2,0.05
+E14001544,Thirsk and Malton,Yorkshire and The Humber,0.37,0.31,0.08,0.18,0.06
+E14001549,Tonbridge,South East,0.4,0.27,0.09,0.16,0.08
+E14001552,Torridge and Tavistock,South West,0.3,0.17,0.24,0.23,0.06
+E14001569,Waveney Valley,East of England,0.31,0.21,0.05,0.23,0.2
+E14001570,Weald of Kent,South East,0.43,0.24,0.06,0.21,0.06
+E14001578,West Suffolk,East of England,0.33,0.31,0.06,0.23,0.07
+E14001579,West Worcestershire,West Midlands,0.35,0.16,0.26,0.17,0.06
+E14001582,Wetherby and Easingwold,Yorkshire and The Humber,0.45,0.27,0.06,0.16,0.06
+E14001588,Windsor,South East,0.36,0.31,0.14,0.11,0.08
+E14001590,Witham,East of England,0.36,0.28,0.08,0.2,0.08
+E14001601,Wyre Forest,West Midlands,0.33,0.33,0.06,0.22,0.06
+S14000008,"Berwickshire, Roxburgh and Selkirk",Scotland,0.42,0.11,0.05,0.09,0.33
+S14000062,Aberdeenshire North and Moray East,Scotland,0.39,0.1,0.03,0.12,0.36
+S14000073,Dumfries and Galloway,Scotland,0.32,0.16,0.04,0.12,0.36
+S14000074,"Dumfriesshire, Clydesdale and Tweeddale",Scotland,0.37,0.14,0.04,0.1,0.35
+S14000091,Gordon and Buchan,Scotland,0.37,0.12,0.06,0.11,0.34
+W07000102,Montgomeryshire and Glyndwr,Wales,0.28,0.25,0.15,0.21,0.11
+E14001130,Brighton Pavilion,South East,0.06,0.28,0.04,0.04,0.58
+E14001063,Aldershot,South East,0.31,0.37,0.1,0.15,0.07
+E14001065,Altrincham and Sale West,North West,0.32,0.43,0.07,0.09,0.09
+E14001066,Amber Valley,East Midlands,0.28,0.35,0.05,0.27,0.05
+E14001069,Ashford,South East,0.3,0.37,0.08,0.18,0.07
+E14001071,Aylesbury,South East,0.29,0.31,0.21,0.11,0.08
+E14001072,Banbury,South East,0.28,0.41,0.1,0.16,0.05
+E14001076,Barrow and Furness,North West,0.27,0.52,0.03,0.14,0.04
+E14001078,Basingstoke,South East,0.27,0.43,0.07,0.15,0.08
+E14001079,Bassetlaw,East Midlands,0.27,0.46,0.05,0.18,0.04
+E14001087,Beverley and Holderness,Yorkshire and The Humber,0.32,0.33,0.08,0.22,0.05
+E14001088,Bexhill and Battle,South East,0.31,0.34,0.09,0.16,0.1
+E14001089,Bexleyheath and Crayford,London,0.29,0.36,0.05,0.25,0.05
+E14001097,Birmingham Northfield,West Midlands,0.23,0.49,0.05,0.15,0.08
+E14001101,Bishop Auckland,North East,0.27,0.48,0.03,0.17,0.05
+E14001104,Blackpool North and Fleetwood,North West,0.26,0.36,0.05,0.28,0.05
+E14001105,Blackpool South,North West,0.19,0.47,0.03,0.25,0.06
+E14001108,Bognor Regis and Littlehampton,South East,0.28,0.31,0.07,0.27,0.07
+E14001109,Bolsover,East Midlands,0.21,0.46,0.04,0.24,0.05
+E14001110,Bolton North East,North West,0.21,0.49,0.03,0.2,0.07
+E14001112,Bolton West,North West,0.29,0.4,0.07,0.19,0.05
+E14001115,Bournemouth East,South West,0.28,0.43,0.07,0.15,0.07
+E14001116,Bournemouth West,South West,0.28,0.39,0.08,0.17,0.08
+E14001117,Bracknell,South East,0.27,0.37,0.1,0.18,0.08
+E14001136,Broadland and Fakenham,East of England,0.33,0.41,0.08,0.15,0.03
+E14001139,Broxbourne,East of England,0.32,0.33,0.07,0.22,0.06
+E14001140,Broxtowe,East Midlands,0.22,0.44,0.05,0.24,0.05
+E14001141,Buckingham and Bletchley,South East,0.27,0.36,0.12,0.2,0.05
+E14001142,Burnley,North West,0.2,0.49,0.05,0.19,0.07
+E14001143,Burton and Uttoxeter,West Midlands,0.29,0.37,0.06,0.22,0.06
+E14001144,Bury North,North West,0.25,0.56,0.02,0.13,0.04
+E14001145,Bury South,North West,0.23,0.45,0.08,0.17,0.07
+E14001146,Bury St Edmunds and Stowmarket,East of England,0.32,0.32,0.03,0.19,0.14
+E14001147,Calder Valley,Yorkshire and The Humber,0.27,0.47,0.05,0.17,0.04
+E14001148,Camborne and Redruth,South West,0.28,0.45,0.06,0.16,0.05
+E14001150,Cannock Chase,West Midlands,0.26,0.38,0.03,0.25,0.08
+E14001152,Carlisle,North West,0.29,0.43,0.04,0.17,0.07
+E14001155,Central Devon,South West,0.3,0.33,0.11,0.19,0.07
+E14001157,Chatham and Aylesford,South East,0.32,0.33,0.05,0.23,0.07
+E14001160,Chelsea and Fulham,London,0.31,0.45,0.1,0.09,0.05
+E14001167,Chingford and Woodford Green,London,0.27,0.35,0.05,0.08,0.25
+E14001169,Chipping Barnet,London,0.33,0.46,0.05,0.1,0.06
+E14001172,Cities of London and Westminster,London,0.28,0.41,0.14,0.08,0.09
+E14001176,Colchester,East of England,0.26,0.4,0.1,0.16,0.08
+E14001177,Colne Valley,Yorkshire and The Humber,0.29,0.5,0.05,0.11,0.05
+E14001178,Congleton,North West,0.33,0.39,0.06,0.18,0.04
+E14001179,Corby and East Northamptonshire,East Midlands,0.23,0.4,0.07,0.25,0.05
+E14001184,Crawley,South East,0.27,0.39,0.07,0.18,0.09
+E14001185,Crewe and Nantwich,North West,0.24,0.47,0.04,0.18,0.07
+E14001187,Croydon South,London,0.37,0.39,0.08,0.1,0.06
+E14001190,Darlington,North East,0.27,0.49,0.04,0.13,0.07
+E14001191,Dartford,South East,0.28,0.35,0.06,0.24,0.07
+E14001193,Derby North,East Midlands,0.24,0.47,0.04,0.17,0.08
+E14001195,Derbyshire Dales,East Midlands,0.35,0.36,0.07,0.15,0.07
+E14001199,Doncaster East and the Isle of Axholme,Yorkshire and The Humber,0.23,0.42,0.03,0.26,0.06
+E14001202,Dover and Deal,South East,0.24,0.43,0.05,0.22,0.06
+E14001204,Dudley,West Midlands,0.3,0.35,0.05,0.23,0.07
+E14001206,Dunstable and Leighton Buzzard,East of England,0.3,0.34,0.11,0.19,0.06
+E14001210,Earley and Woodley,South East,0.34,0.43,0.16,0.0,0.07
+E14001216,East Thanet,South East,0.24,0.43,0.03,0.2,0.1
+E14001218,East Worthing and Shoreham,South East,0.25,0.5,0.04,0.15,0.06
+E14001223,Eltham and Chislehurst,London,0.23,0.47,0.05,0.15,0.1
+E14001228,Erewash,East Midlands,0.26,0.38,0.04,0.25,0.07
+E14001235,Faversham and Mid Kent,South East,0.31,0.33,0.07,0.22,0.07
+E14001237,Filton and Bradley Stoke,South West,0.27,0.49,0.04,0.14,0.06
+E14001239,Folkestone and Hythe,South East,0.23,0.32,0.08,0.28,0.09
+E14001240,Forest of Dean,South West,0.3,0.36,0.04,0.2,0.1
+E14001245,Gedling,East Midlands,0.21,0.54,0.06,0.15,0.04
+E14001246,Gillingham and Rainham,South East,0.3,0.38,0.06,0.21,0.05
+E14001248,Gloucester,South West,0.25,0.39,0.08,0.21,0.07
+E14001254,Gravesham,South East,0.31,0.37,0.04,0.22,0.06
+E14001255,Great Grimsby and Cleethorpes,Yorkshire and The Humber,0.22,0.43,0.05,0.25,0.05
+E14001261,Halesowen,West Midlands,0.3,0.42,0.06,0.17,0.05
+E14001266,"Harborough, Oadby and Wigston",East Midlands,0.35,0.35,0.08,0.14,0.08
+E14001267,Harlow,East of England,0.31,0.38,0.04,0.23,0.04
+E14001270,Harrow East,London,0.4,0.41,0.05,0.09,0.05
+E14001273,Harwich and North Essex,East of England,0.34,0.35,0.06,0.17,0.08
+E14001274,Hastings and Rye,South East,0.26,0.41,0.04,0.17,0.12
+E14001278,Hemel Hempstead,East of England,0.28,0.4,0.1,0.17,0.05
+E14001279,Hendon,London,0.27,0.45,0.06,0.11,0.11
+E14001283,Hertford and Stortford,East of England,0.3,0.39,0.06,0.18,0.07
+E14001285,Hexham,North East,0.34,0.49,0.06,0.0,0.11
+E14001287,High Peak,East Midlands,0.23,0.55,0.04,0.13,0.05
+E14001289,Hitchin,East of England,0.24,0.37,0.17,0.17,0.05
+E14001298,Huntingdon,East of England,0.32,0.36,0.07,0.18,0.07
+E14001299,Hyndburn,North West,0.25,0.53,0.03,0.13,0.06
+E14001302,Ipswich,East of England,0.24,0.48,0.05,0.17,0.06
+E14001303,Isle of Wight East,South East,0.26,0.28,0.08,0.23,0.15
+E14001304,Isle of Wight West,South East,0.27,0.37,0.05,0.16,0.15
+E14001308,Keighley and Ilkley,Yorkshire and The Humber,0.33,0.43,0.04,0.14,0.06
+E14001311,Kettering,East Midlands,0.34,0.38,0.05,0.16,0.07
+E14001315,Kingston upon Hull West and Haltemprice,Yorkshire and The Humber,0.18,0.5,0.08,0.2,0.04
+E14001318,Lancaster and Wyre,North West,0.22,0.51,0.03,0.17,0.07
+E14001322,Leeds North West,Yorkshire and The Humber,0.23,0.48,0.1,0.11,0.08
+E14001324,Leeds South West and Morley,Yorkshire and The Humber,0.25,0.47,0.03,0.19,0.06
+E14001329,Leigh and Atherton,North West,0.16,0.55,0.04,0.21,0.04
+E14001335,Lichfield,West Midlands,0.36,0.36,0.05,0.18,0.05
+E14001336,Lincoln,East Midlands,0.22,0.5,0.05,0.16,0.07
+E14001342,Loughborough,East Midlands,0.26,0.48,0.05,0.13,0.08
+E14001344,Lowestoft,East of England,0.27,0.39,0.04,0.23,0.07
+E14001347,Macclesfield,North West,0.28,0.46,0.06,0.13,0.07
+E14001355,Mansfield,East Midlands,0.32,0.42,0.03,0.19,0.04
+E14001357,Melton and Syston,East Midlands,0.31,0.33,0.06,0.22,0.08
+E14001359,Mid Bedfordshire,East of England,0.32,0.33,0.07,0.19,0.09
+E14001361,Mid Cheshire,North West,0.21,0.5,0.04,0.17,0.08
+E14001362,Mid Derbyshire,East Midlands,0.33,0.43,0.06,0.13,0.05
+E14001364,Mid Leicestershire,East Midlands,0.34,0.4,0.04,0.17,0.05
+E14001368,Middlesbrough South and East Cleveland,North East,0.37,0.53,0.05,0.0,0.05
+E14001369,Milton Keynes Central,South East,0.24,0.5,0.08,0.12,0.06
+E14001370,Milton Keynes North,South East,0.26,0.39,0.07,0.2,0.08
+E14001372,Morecambe and Lunesdale,North West,0.31,0.41,0.08,0.15,0.05
+E14001375,Newark,East Midlands,0.33,0.35,0.06,0.21,0.05
+E14001380,Newcastle-under-Lyme,West Midlands,0.25,0.41,0.06,0.21,0.07
+E14001382,Newton Aycliffe and Spennymoor,North East,0.2,0.5,0.04,0.21,0.05
+E14001391,North East Derbyshire,East Midlands,0.33,0.38,0.06,0.18,0.05
+E14001393,North East Hertfordshire,East of England,0.31,0.41,0.08,0.15,0.05
+E14001394,North East Somerset and Hanham,South West,0.35,0.41,0.08,0.11,0.05
+E14001397,North Northumberland,North East,0.32,0.38,0.09,0.15,0.06
+E14001399,North Somerset,South West,0.3,0.4,0.09,0.16,0.05
+E14001400,North Warwickshire and Bedworth,West Midlands,0.29,0.4,0.03,0.24,0.04
+E14001401,North West Cambridgeshire,East of England,0.31,0.34,0.08,0.2,0.07
+E14001404,North West Leicestershire,East Midlands,0.34,0.34,0.05,0.18,0.09
+E14001406,Northampton North,East Midlands,0.22,0.5,0.04,0.17,0.07
+E14001407,Northampton South,East Midlands,0.3,0.42,0.05,0.17,0.06
+E14001408,Norwich North,East of England,0.24,0.51,0.04,0.15,0.06
+E14001413,Nuneaton,West Midlands,0.3,0.43,0.04,0.17,0.06
+E14001414,Old Bexley and Sidcup,London,0.33,0.35,0.05,0.21,0.06
+E14001418,Ossett and Denby Dale,Yorkshire and The Humber,0.28,0.43,0.04,0.19,0.06
+E14001422,Pendle and Clitheroe,North West,0.3,0.41,0.08,0.17,0.04
+E14001423,Penistone and Stocksbridge,Yorkshire and The Humber,0.25,0.41,0.09,0.21,0.04
+E14001424,Penrith and Solway,North West,0.32,0.36,0.08,0.16,0.08
+E14001425,Peterborough,East of England,0.24,0.44,0.07,0.16,0.09
+E14001426,Plymouth Moor View,South West,0.32,0.41,0.05,0.17,0.05
+E14001431,Portsmouth North,South East,0.34,0.37,0.08,0.17,0.04
+E14001439,Reading West and Mid Berkshire,South East,0.31,0.38,0.07,0.17,0.07
+E14001440,Redcar,North East,0.25,0.39,0.06,0.23,0.07
+E14001441,Redditch,West Midlands,0.3,0.41,0.04,0.2,0.05
+E14001443,Ribble Valley,North West,0.33,0.39,0.06,0.16,0.06
+E14001447,Rochester and Strood,South East,0.28,0.36,0.09,0.21,0.06
+E14001450,Rossendale and Darwen,North West,0.26,0.42,0.04,0.22,0.06
+E14001451,Rother Valley,Yorkshire and The Humber,0.26,0.45,0.04,0.2,0.05
+E14001453,Rugby,West Midlands,0.35,0.35,0.08,0.15,0.07
+E14001457,Rushcliffe,East Midlands,0.27,0.45,0.09,0.13,0.06
+E14001461,Scarborough and Whitby,Yorkshire and The Humber,0.29,0.43,0.04,0.2,0.04
+E14001462,Scunthorpe,Yorkshire and The Humber,0.25,0.45,0.03,0.23,0.04
+E14001464,Selby,Yorkshire and The Humber,0.27,0.49,0.03,0.18,0.03
+E14001471,Sherwood Forest,East Midlands,0.26,0.37,0.05,0.27,0.05
+E14001472,Shipley,Yorkshire and The Humber,0.3,0.47,0.05,0.12,0.06
+E14001473,Shrewsbury,West Midlands,0.24,0.47,0.09,0.14,0.06
+E14001474,Sittingbourne and Sheppey,South East,0.32,0.35,0.05,0.23,0.05
+E14001480,South Basildon and East Thurrock,East of England,0.3,0.32,0.04,0.28,0.06
+E14001483,South Derbyshire,East Midlands,0.29,0.34,0.05,0.25,0.07
+E14001489,South Norfolk,East of England,0.31,0.37,0.08,0.16,0.08
+E14001491,South Ribble,North West,0.26,0.46,0.04,0.18,0.06
+E14001499,Southampton Itchen,South East,0.22,0.49,0.04,0.18,0.07
+E14001501,Southend East and Rochford,East of England,0.32,0.41,0.05,0.18,0.04
+E14001502,Southend West and Leigh,East of England,0.28,0.36,0.06,0.24,0.06
+E14001504,Southport,North West,0.29,0.41,0.07,0.17,0.06
+E14001505,Spelthorne,South East,0.29,0.3,0.15,0.2,0.06
+E14001506,Spen Valley,Yorkshire and The Humber,0.22,0.44,0.07,0.22,0.05
+E14001508,St Austell and Newquay,South West,0.27,0.34,0.07,0.26,0.06
+E14001513,Stafford,West Midlands,0.3,0.37,0.04,0.21,0.08
+E14001514,Staffordshire Moorlands,West Midlands,0.29,0.38,0.04,0.25,0.04
+E14001516,Stevenage,East of England,0.27,0.43,0.05,0.18,0.07
+E14001519,Stockton West,North East,0.33,0.39,0.04,0.2,0.04
+E14001520,Stoke-on-Trent Central,West Midlands,0.17,0.41,0.04,0.26,0.12
+E14001521,Stoke-on-Trent North,West Midlands,0.23,0.44,0.04,0.24,0.05
+E14001522,Stoke-on-Trent South,West Midlands,0.33,0.44,0.03,0.16,0.04
+E14001523,"Stone, Great Wyrley and Penkridge",West Midlands,0.38,0.41,0.08,0.0,0.13
+E14001524,Stourbridge,West Midlands,0.32,0.41,0.05,0.17,0.05
+E14001529,Stroud,South West,0.24,0.51,0.04,0.12,0.09
+E14001536,Swindon North,South West,0.3,0.44,0.05,0.17,0.04
+E14001537,Swindon South,South West,0.28,0.52,0.04,0.11,0.05
+E14001541,Telford,West Midlands,0.26,0.44,0.05,0.22,0.03
+E14001546,Thurrock,East of England,0.27,0.47,0.04,0.19,0.03
+E14001547,Tipton and Wednesbury,West Midlands,0.2,0.37,0.04,0.27,0.12
+E14001554,Truro and Falmouth,South West,0.25,0.48,0.08,0.13,0.06
+E14001558,Uxbridge and South Ruislip,London,0.34,0.44,0.05,0.1,0.07
+E14001560,Wakefield and Rothwell,Yorkshire and The Humber,0.19,0.45,0.07,0.21,0.08
+E14001562,Walsall and Bloxwich,West Midlands,0.22,0.42,0.05,0.23,0.08
+E14001568,Watford,East of England,0.21,0.48,0.12,0.14,0.05
+E14001571,Wellingborough and Rushden,East Midlands,0.26,0.4,0.05,0.24,0.05
+E14001573,Welwyn Hatfield,East of England,0.27,0.46,0.07,0.15,0.05
+E14001574,West Bromwich,West Midlands,0.22,0.43,0.04,0.22,0.09
+E14001581,Weston-super-Mare,South West,0.3,0.4,0.07,0.17,0.06
+E14001583,Whitehaven and Workington,North West,0.21,0.49,0.04,0.2,0.06
+E14001594,Wolverhampton North East,West Midlands,0.24,0.44,0.04,0.24,0.04
+E14001596,Wolverhampton West,West Midlands,0.28,0.46,0.05,0.15,0.06
+E14001597,Worcester,West Midlands,0.22,0.44,0.07,0.21,0.06
+E14001599,Worthing West,South East,0.3,0.41,0.05,0.18,0.06
+E14001600,Wycombe,South East,0.22,0.42,0.09,0.13,0.14
+E14001605,York Outer,Yorkshire and The Humber,0.33,0.39,0.09,0.12,0.07
+W07000083,Bangor Aberconwy,Wales,0.23,0.36,0.03,0.16,0.22
+W07000086,Bridgend,Wales,0.23,0.37,0.06,0.17,0.17
+W07000094,Clwyd East,Wales,0.29,0.42,0.04,0.12,0.13
+W07000095,Clwyd North,Wales,0.24,0.4,0.05,0.19,0.12
+W07000100,Mid and South Pembrokeshire,Wales,0.29,0.33,0.06,0.19,0.13
+W07000101,Monmouthshire,Wales,0.32,0.39,0.06,0.13,0.1
+W07000110,Vale of Glamorgan,Wales,0.26,0.44,0.04,0.14,0.12
+W07000111,Wrexham,Wales,0.25,0.38,0.06,0.15,0.16
+S14000010,Central Ayrshire,Scotland,0.12,0.34,0.03,0.08,0.43
+S14000027,Na h-Eileanan an Iar,Scotland,0.03,0.42,0.04,0.08,0.43
+S14000045,Midlothian,Scotland,0.08,0.52,0.04,0.08,0.28
+S14000063,Airdrie and Shotts,Scotland,0.06,0.5,0.03,0.09,0.32
+S14000064,Alloa and Grangemouth,Scotland,0.08,0.37,0.03,0.08,0.44
+S14000068,Bathgate and Linlithgow,Scotland,0.07,0.38,0.05,0.09,0.41
+S14000070,Coatbridge and Bellshill,Scotland,0.04,0.53,0.03,0.08,0.32
+S14000071,Cowdenbeath and Kirkcaldy,Scotland,0.08,0.43,0.05,0.08,0.36
+S14000072,Cumbernauld and Kirkintilloch,Scotland,0.07,0.39,0.03,0.09,0.42
+S14000076,Dunfermline and Dollar,Scotland,0.06,0.39,0.06,0.09,0.4
+S14000077,East Kilbride and Strathaven,Scotland,0.09,0.42,0.04,0.09,0.36
+S14000084,Glasgow East,Scotland,0.06,0.44,0.03,0.08,0.39
+S14000085,Glasgow North,Scotland,0.03,0.41,0.03,0.06,0.47
+S14000086,Glasgow North East,Scotland,0.06,0.39,0.03,0.07,0.45
+S14000087,Glasgow South,Scotland,0.06,0.43,0.03,0.06,0.42
+S14000088,Glasgow South West,Scotland,0.06,0.47,0.03,0.06,0.38
+S14000089,Glasgow West,Scotland,0.09,0.43,0.03,0.05,0.4
+S14000090,Glenrothes and Mid Fife,Scotland,0.09,0.46,0.04,0.08,0.33
+S14000092,Hamilton and Clyde Valley,Scotland,0.09,0.49,0.03,0.09,0.3
+S14000093,Inverclyde and Renfrewshire West,Scotland,0.06,0.4,0.04,0.09,0.41
+S14000095,Livingston,Scotland,0.05,0.4,0.04,0.09,0.42
+S14000096,Lothian East,Scotland,0.05,0.48,0.04,0.08,0.35
+S14000099,"Motherwell, Wishaw and Carluke",Scotland,0.09,0.43,0.03,0.08,0.37
+S14000101,Paisley and Renfrewshire North,Scotland,0.08,0.43,0.04,0.08,0.37
+S14000102,Paisley and Renfrewshire South,Scotland,0.07,0.44,0.04,0.08,0.37
+S14000104,Rutherglen,Scotland,0.06,0.45,0.05,0.1,0.34
+S14000106,West Dunbartonshire,Scotland,0.05,0.47,0.03,0.08,0.37
+E14001070,Ashton-under-Lyne,North West,0.09,0.49,0.05,0.24,0.13
+E14001073,Barking,London,0.06,0.54,0.05,0.16,0.19
+E14001074,Barnsley North,Yorkshire and The Humber,0.07,0.37,0.07,0.34,0.15
+E14001075,Barnsley South,Yorkshire and The Humber,0.06,0.53,0.05,0.29,0.07
+E14001081,Battersea,London,0.18,0.54,0.11,0.08,0.09
+E14001083,Beckenham and Penge,London,0.18,0.44,0.14,0.15,0.09
+E14001084,Bedford,East of England,0.18,0.49,0.09,0.17,0.07
+E14001085,Bermondsey and Old Southwark,London,0.06,0.49,0.27,0.08,0.1
+E14001086,Bethnal Green and Stepney,London,0.04,0.5,0.07,0.07,0.32
+E14001091,Birkenhead,North West,0.09,0.53,0.08,0.16,0.14
+E14001092,Birmingham Edgbaston,West Midlands,0.16,0.55,0.06,0.15,0.08
+E14001093,Birmingham Erdington,West Midlands,0.14,0.52,0.05,0.23,0.06
+E14001094,Birmingham Hall Green and Moseley,West Midlands,0.06,0.45,0.11,0.08,0.3
+E14001095,Birmingham Hodge Hill and Solihull North,West Midlands,0.09,0.5,0.06,0.17,0.18
+E14001096,Birmingham Ladywood,West Midlands,0.06,0.54,0.05,0.06,0.29
+E14001098,Birmingham Perry Barr,West Midlands,0.07,0.55,0.06,0.1,0.22
+E14001099,Birmingham Selly Oak,West Midlands,0.11,0.51,0.08,0.14,0.16
+E14001100,Birmingham Yardley,West Midlands,0.09,0.47,0.14,0.18,0.12
+E14001102,Blackburn,North West,0.12,0.47,0.04,0.14,0.23
+E14001103,Blackley and Middleton South,North West,0.06,0.57,0.06,0.24,0.07
+E14001106,Blaydon and Consett,North East,0.12,0.53,0.07,0.21,0.07
+E14001107,Blyth and Ashington,North East,0.08,0.64,0.05,0.18,0.05
+E14001111,Bolton South and Walkden,North West,0.09,0.58,0.06,0.2,0.07
+E14001113,Bootle,North West,0.05,0.67,0.04,0.12,0.12
+E14001118,Bradford East,Yorkshire and The Humber,0.06,0.59,0.07,0.16,0.12
+E14001119,Bradford South,Yorkshire and The Humber,0.14,0.48,0.05,0.23,0.1
+E14001120,Bradford West,Yorkshire and The Humber,0.09,0.5,0.04,0.08,0.29
+E14001122,Brent East,London,0.08,0.68,0.05,0.08,0.11
+E14001123,Brent West,London,0.21,0.46,0.13,0.09,0.11
+E14001124,Brentford and Isleworth,London,0.16,0.47,0.1,0.11,0.16
+E14001129,Brighton Kemptown and Peacehaven,South East,0.19,0.57,0.1,0.0,0.14
+E14001131,Bristol Central,South West,0.06,0.37,0.02,0.03,0.52
+E14001132,Bristol East,South West,0.06,0.54,0.06,0.0,0.34
+E14001133,Bristol North East,South West,0.14,0.54,0.04,0.16,0.12
+E14001134,Bristol North West,South West,0.18,0.53,0.06,0.1,0.13
+E14001135,Bristol South,South West,0.11,0.56,0.05,0.14,0.14
+E14001149,Cambridge,East of England,0.05,0.53,0.25,0.0,0.17
+E14001151,Canterbury,South East,0.22,0.44,0.07,0.16,0.11
+E14001163,Chester North and Neston,North West,0.19,0.58,0.04,0.13,0.06
+E14001165,Chesterfield,East Midlands,0.15,0.5,0.07,0.2,0.08
+E14001173,City of Durham,North East,0.13,0.53,0.09,0.16,0.09
+E14001175,Clapham and Brixton Hill,London,0.06,0.61,0.13,0.06,0.14
+E14001180,Coventry East,West Midlands,0.12,0.52,0.08,0.21,0.07
+E14001181,Coventry North West,West Midlands,0.18,0.46,0.05,0.23,0.08
+E14001182,Coventry South,West Midlands,0.22,0.51,0.06,0.14,0.07
+E14001183,Cramlington and Killingworth,North East,0.15,0.49,0.08,0.2,0.08
+E14001186,Croydon East,London,0.21,0.47,0.09,0.16,0.07
+E14001188,Croydon West,London,0.07,0.6,0.09,0.12,0.12
+E14001189,Dagenham and Rainham,London,0.14,0.44,0.06,0.27,0.09
+E14001194,Derby South,East Midlands,0.13,0.46,0.06,0.24,0.11
+E14001196,Dewsbury and Batley,Yorkshire and The Humber,0.09,0.36,0.08,0.21,0.26
+E14001198,Doncaster Central,Yorkshire and The Humber,0.12,0.46,0.05,0.27,0.1
+E14001200,Doncaster North,Yorkshire and The Humber,0.11,0.65,0.06,0.0,0.18
+E14001205,Dulwich and West Norwood,London,0.06,0.62,0.03,0.04,0.25
+E14001207,Ealing Central and Acton,London,0.11,0.57,0.15,0.08,0.09
+E14001208,Ealing North,London,0.14,0.54,0.07,0.12,0.13
+E14001209,Ealing Southall,London,0.12,0.48,0.08,0.09,0.23
+E14001211,Easington,North East,0.06,0.55,0.05,0.24,0.1
+E14001213,East Ham,London,0.09,0.61,0.04,0.09,0.17
+E14001221,Edmonton and Winchmore Hill,London,0.14,0.58,0.06,0.13,0.09
+E14001222,Ellesmere Port and Bromborough,North West,0.07,0.63,0.07,0.15,0.08
+E14001225,Enfield North,London,0.17,0.54,0.05,0.15,0.09
+E14001229,Erith and Thamesmead,London,0.09,0.61,0.06,0.14,0.1
+E14001231,Exeter,South West,0.09,0.55,0.06,0.15,0.15
+E14001236,Feltham and Heston,London,0.16,0.52,0.07,0.16,0.09
+E14001244,Gateshead Central and Whickham,North East,0.09,0.37,0.14,0.23,0.17
+E14001251,Gorton and Denton,North West,0.08,0.53,0.07,0.13,0.19
+E14001257,Greenwich and Woolwich,London,0.09,0.61,0.09,0.08,0.13
+E14001259,Hackney North and Stoke Newington,London,0.06,0.66,0.05,0.05,0.18
+E14001260,Hackney South and Shoreditch,London,0.03,0.72,0.05,0.04,0.16
+E14001262,Halifax,Yorkshire and The Humber,0.19,0.44,0.07,0.19,0.11
+E14001264,Hammersmith and Chiswick,London,0.15,0.56,0.07,0.09,0.13
+E14001265,Hampstead and Highgate,London,0.11,0.53,0.16,0.06,0.14
+E14001271,Harrow West,London,0.19,0.51,0.1,0.1,0.1
+E14001272,Hartlepool,North East,0.07,0.46,0.05,0.27,0.15
+E14001276,Hayes and Harlington,London,0.17,0.52,0.06,0.15,0.1
+E14001286,Heywood and Middleton North,North West,0.11,0.46,0.06,0.29,0.08
+E14001290,Holborn and St Pancras,London,0.08,0.59,0.06,0.05,0.22
+E14001293,Hornsey and Friern Barnet,London,0.03,0.58,0.15,0.03,0.21
+E14001295,Houghton and Sunderland South,North East,0.08,0.55,0.06,0.24,0.07
+E14001296,Hove and Portslade,South East,0.11,0.67,0.05,0.08,0.09
+E14001297,Huddersfield,Yorkshire and The Humber,0.15,0.55,0.05,0.14,0.11
+E14001300,Ilford North,London,0.2,0.56,0.05,0.11,0.08
+E14001301,Ilford South,London,0.09,0.49,0.07,0.12,0.23
+E14001305,Islington North,London,0.04,0.41,0.07,0.03,0.45
+E14001306,Islington South and Finsbury,London,0.04,0.59,0.11,0.06,0.2
+E14001307,Jarrow and Gateshead East,North East,0.06,0.51,0.07,0.23,0.13
+E14001310,Kensington and Bayswater,London,0.23,0.45,0.12,0.09,0.11
+E14001313,Kingston upon Hull East,Yorkshire and The Humber,0.07,0.5,0.1,0.27,0.06
+E14001314,Kingston upon Hull North and Cottingham,Yorkshire and The Humber,0.09,0.5,0.12,0.2,0.09
+E14001317,Knowsley,North West,0.03,0.7,0.03,0.11,0.13
+E14001319,Leeds Central and Headingley,Yorkshire and The Humber,0.06,0.65,0.07,0.09,0.13
+E14001320,Leeds East,Yorkshire and The Humber,0.13,0.49,0.04,0.23,0.11
+E14001321,Leeds North East,Yorkshire and The Humber,0.11,0.61,0.07,0.09,0.12
+E14001323,Leeds South,Yorkshire and The Humber,0.08,0.65,0.07,0.0,0.2
+E14001325,Leeds West and Pudsey,Yorkshire and The Humber,0.15,0.52,0.04,0.22,0.07
+E14001326,Leicester East,East Midlands,0.23,0.37,0.09,0.11,0.2
+E14001327,Leicester South,East Midlands,0.06,0.59,0.04,0.07,0.24
+E14001328,Leicester West,East Midlands,0.14,0.45,0.08,0.18,0.15
+E14001331,Lewisham East,London,0.07,0.62,0.08,0.09,0.14
+E14001332,Lewisham North,London,0.05,0.66,0.04,0.05,0.2
+E14001333,Lewisham West and East Dulwich,London,0.08,0.62,0.04,0.05,0.21
+E14001334,Leyton and Wanstead,London,0.06,0.67,0.07,0.07,0.13
+E14001337,Liverpool Garston,North West,0.07,0.59,0.06,0.09,0.19
+E14001338,Liverpool Riverside,North West,0.05,0.62,0.03,0.07,0.23
+E14001339,Liverpool Walton,North West,0.04,0.74,0.04,0.09,0.09
+E14001340,Liverpool Wavertree,North West,0.04,0.66,0.07,0.07,0.16
+E14001341,Liverpool West Derby,North West,0.05,0.75,0.04,0.08,0.08
+E14001345,Luton North,East of England,0.13,0.45,0.08,0.21,0.13
+E14001346,Luton South and South Bedfordshire,East of England,0.16,0.52,0.06,0.16,0.1
+E14001350,Makerfield,North West,0.08,0.53,0.06,0.26,0.07
+E14001352,Manchester Central,North West,0.04,0.6,0.06,0.12,0.18
+E14001353,Manchester Rusholme,North West,0.07,0.54,0.0,0.07,0.32
+E14001354,Manchester Withington,North West,0.04,0.68,0.09,0.05,0.14
+E14001367,Middlesbrough and Thornaby East,North East,0.04,0.48,0.08,0.25,0.15
+E14001371,Mitcham and Morden,London,0.09,0.61,0.06,0.13,0.11
+E14001377,Newcastle upon Tyne Central and West,North East,0.06,0.58,0.06,0.18,0.12
+E14001378,Newcastle upon Tyne East and Wallsend,North East,0.04,0.53,0.09,0.17,0.17
+E14001379,Newcastle upon Tyne North,North East,0.12,0.6,0.1,0.11,0.07
+E14001383,Normanton and Hemsworth,Yorkshire and The Humber,0.08,0.52,0.08,0.26,0.06
+E14001389,North Durham,North East,0.1,0.51,0.08,0.24,0.07
+E14001409,Norwich South,East of England,0.1,0.55,0.07,0.14,0.14
+E14001410,Nottingham East,East Midlands,0.06,0.64,0.06,0.11,0.13
+E14001411,Nottingham North and Kimberley,East Midlands,0.17,0.51,0.06,0.19,0.07
+E14001412,Nottingham South,East Midlands,0.09,0.51,0.07,0.17,0.16
+E14001415,Oldham East and Saddleworth,North West,0.15,0.43,0.06,0.22,0.14
+E14001416,"Oldham West, Chadderton and Royton",North West,0.08,0.49,0.04,0.18,0.21
+E14001419,Oxford East,South East,0.07,0.57,0.13,0.0,0.23
+E14001421,Peckham,London,0.03,0.64,0.08,0.07,0.18
+E14001427,Plymouth Sutton and Devonport,South West,0.12,0.59,0.05,0.16,0.08
+E14001428,"Pontefract, Castleford and Knottingley",Yorkshire and The Humber,0.08,0.48,0.08,0.32,0.04
+E14001430,Poplar and Limehouse,London,0.06,0.61,0.1,0.06,0.17
+E14001432,Portsmouth South,South East,0.13,0.57,0.08,0.16,0.06
+E14001433,Preston,North West,0.08,0.52,0.08,0.17,0.15
+E14001434,Putney,London,0.18,0.53,0.12,0.1,0.07
+E14001435,Queen's Park and Maida Vale,London,0.06,0.58,0.13,0.09,0.14
+E14001436,Rawmarsh and Conisbrough,Yorkshire and The Humber,0.09,0.53,0.04,0.27,0.07
+E14001438,Reading Central,South East,0.18,0.49,0.07,0.11,0.15
+E14001446,Rochdale,North West,0.15,0.49,0.08,0.14,0.14
+E14001452,Rotherham,Yorkshire and The Humber,0.0,0.55,0.11,0.27,0.07
+E14001455,Runcorn and Helsby,North West,0.12,0.55,0.05,0.2,0.08
+E14001459,Salford,North West,0.03,0.61,0.07,0.16,0.13
+E14001463,Sefton Central,North West,0.15,0.61,0.05,0.13,0.06
+E14001466,Sheffield Brightside and Hillsborough,Yorkshire and The Humber,0.11,0.64,0.09,0.0,0.16
+E14001467,Sheffield Central,Yorkshire and The Humber,0.07,0.58,0.07,0.0,0.28
+E14001468,Sheffield Hallam,Yorkshire and The Humber,0.11,0.43,0.37,0.0,0.09
+E14001469,Sheffield Heeley,Yorkshire and The Humber,0.1,0.63,0.08,0.0,0.19
+E14001470,Sheffield South East,Yorkshire and The Humber,0.17,0.56,0.12,0.0,0.15
+E14001477,Slough,South East,0.13,0.53,0.09,0.11,0.14
+E14001478,Smethwick,West Midlands,0.1,0.44,0.07,0.17,0.22
+E14001492,South Shields,North East,0.05,0.53,0.05,0.2,0.17
+E14001500,Southampton Test,South East,0.13,0.54,0.07,0.16,0.1
+E14001503,Southgate and Wood Green,London,0.13,0.56,0.08,0.11,0.12
+E14001509,St Helens North,North West,0.06,0.56,0.07,0.21,0.1
+E14001510,St Helens South and Whiston,North West,0.03,0.54,0.07,0.18,0.18
+E14001515,Stalybridge and Hyde,North West,0.13,0.58,0.05,0.18,0.06
+E14001517,Stockport,North West,0.1,0.59,0.06,0.13,0.12
+E14001518,Stockton North,North East,0.13,0.52,0.07,0.23,0.05
+E14001525,Stratford and Bow,London,0.04,0.64,0.07,0.07,0.18
+E14001527,Streatham and Croydon North,London,0.07,0.58,0.13,0.06,0.16
+E14001528,Stretford and Urmston,North West,0.08,0.59,0.06,0.14,0.13
+E14001531,Sunderland Central,North East,0.14,0.43,0.13,0.19,0.11
+E14001550,Tooting,London,0.12,0.61,0.08,0.08,0.11
+E14001553,Tottenham,London,0.07,0.6,0.06,0.05,0.22
+E14001557,Tynemouth,North East,0.18,0.53,0.05,0.14,0.1
+E14001559,Vauxhall and Camberwell Green,London,0.03,0.6,0.09,0.06,0.22
+E14001561,Wallasey,North West,0.07,0.58,0.04,0.15,0.16
+E14001563,Walthamstow,London,0.04,0.72,0.03,0.06,0.15
+E14001564,Warrington North,North West,0.13,0.47,0.06,0.24,0.1
+E14001565,Warrington South,North West,0.2,0.49,0.08,0.18,0.05
+E14001566,Warwick and Leamington,West Midlands,0.2,0.53,0.06,0.11,0.1
+E14001567,Washington and Gateshead South,North East,0.09,0.54,0.05,0.25,0.07
+E14001576,West Ham and Beckton,London,0.07,0.61,0.09,0.1,0.13
+E14001577,West Lancashire,North West,0.12,0.56,0.05,0.2,0.07
+E14001584,Widnes and Halewood,North West,0.08,0.7,0.03,0.1,0.09
+E14001585,Wigan,North West,0.08,0.5,0.08,0.21,0.13
+E14001589,Wirral West,North West,0.24,0.49,0.06,0.15,0.06
+E14001595,Wolverhampton South East,West Midlands,0.14,0.52,0.06,0.21,0.07
+E14001598,Worsley and Eccles,North West,0.12,0.51,0.06,0.23,0.08
+E14001602,Wythenshawe and Sale East,North West,0.1,0.53,0.09,0.18,0.1
+E14001604,York Central,Yorkshire and The Humber,0.08,0.68,0.06,0.1,0.08
+S14000080,Edinburgh South,Scotland,0.05,0.63,0.05,0.06,0.21
+W07000081,Aberafan Maesteg,Wales,0.06,0.45,0.05,0.22,0.22
+W07000082,Alyn and Deeside,Wales,0.16,0.41,0.07,0.21,0.15
+W07000084,Blaenau Gwent and Rhymney,Wales,0.03,0.51,0.05,0.0,0.41
+W07000088,Caerphilly,Wales,0.1,0.37,0.03,0.2,0.3
+W07000089,Cardiff East,Wales,0.08,0.51,0.14,0.11,0.16
+W07000090,Cardiff North,Wales,0.18,0.56,0.05,0.12,0.09
+W07000091,Cardiff South and Penarth,Wales,0.12,0.59,0.05,0.11,0.13
+W07000092,Cardiff West,Wales,0.15,0.46,0.06,0.12,0.21
+W07000097,Gower,Wales,0.19,0.38,0.08,0.21,0.14
+W07000098,Llanelli,Wales,0.1,0.3,0.04,0.22,0.34
+W07000099,Merthyr Tydfil and Aberdare,Wales,0.04,0.37,0.05,0.2,0.34
+W07000103,Neath and Swansea East,Wales,0.08,0.48,0.06,0.2,0.18
+W07000104,Newport East,Wales,0.13,0.37,0.07,0.19,0.24
+W07000105,Newport West and Islwyn,Wales,0.14,0.39,0.07,0.23,0.17
+W07000106,Pontypridd,Wales,0.09,0.41,0.06,0.19,0.25
+W07000107,Rhondda and Ogmore,Wales,0.06,0.51,0.04,0.17,0.22
+W07000108,Swansea West,Wales,0.09,0.43,0.08,0.17,0.23
+W07000109,Torfaen,Wales,0.1,0.45,0.07,0.21,0.17
+E14001090,Bicester and Woodstock,South East,0.29,0.16,0.33,0.17,0.05
+E14001153,Carshalton and Wallington,London,0.18,0.08,0.57,0.11,0.06
+E14001158,Cheadle,North West,0.24,0.1,0.52,0.11,0.03
+E14001159,Chelmsford,East of England,0.25,0.13,0.44,0.14,0.04
+E14001161,Cheltenham,South West,0.29,0.07,0.58,0.0,0.06
+E14001162,Chesham and Amersham,South East,0.33,0.12,0.4,0.1,0.05
+E14001166,Chichester,South East,0.27,0.11,0.39,0.2,0.03
+E14001168,Chippenham,South West,0.25,0.08,0.47,0.14,0.06
+E14001197,Didcot and Wantage,South East,0.23,0.16,0.43,0.15,0.03
+E14001201,Dorking and Horley,South East,0.25,0.1,0.46,0.13,0.06
+E14001214,East Hampshire,South East,0.32,0.11,0.32,0.19,0.06
+E14001219,Eastbourne,South East,0.18,0.07,0.54,0.17,0.04
+E14001220,Eastleigh,South East,0.29,0.14,0.34,0.16,0.07
+E14001224,Ely and East Cambridgeshire,East of England,0.3,0.18,0.31,0.17,0.04
+E14001230,Esher and Walton,South East,0.23,0.06,0.59,0.1,0.02
+E14001241,Frome and East Somerset,South West,0.24,0.15,0.38,0.15,0.08
+E14001247,Glastonbury and Somerton,South West,0.26,0.09,0.39,0.23,0.03
+E14001249,Godalming and Ash,South East,0.29,0.08,0.46,0.13,0.04
+E14001258,Guildford,South East,0.22,0.11,0.5,0.12,0.05
+E14001268,Harpenden and Berkhamsted,East of England,0.33,0.13,0.39,0.12,0.03
+E14001269,Harrogate and Knaresborough,Yorkshire and The Humber,0.27,0.1,0.45,0.15,0.03
+E14001277,Hazel Grove,North West,0.22,0.14,0.5,0.12,0.02
+E14001280,Henley and Thame,South East,0.32,0.08,0.47,0.09,0.04
+E14001291,Honiton and Sidmouth,South West,0.3,0.13,0.38,0.15,0.04
+E14001330,Lewes,South East,0.22,0.08,0.51,0.15,0.04
+E14001348,Maidenhead,South East,0.32,0.15,0.4,0.0,0.13
+E14001363,Mid Dorset and North Poole,South West,0.39,0.12,0.45,0.0,0.04
+E14001366,Mid Sussex,South East,0.28,0.17,0.36,0.15,0.04
+E14001376,Newbury,South East,0.32,0.1,0.37,0.14,0.07
+E14001385,North Cornwall,South West,0.29,0.09,0.45,0.14,0.03
+E14001387,North Devon,South West,0.29,0.09,0.42,0.15,0.05
+E14001396,North Norfolk,East of England,0.32,0.08,0.44,0.15,0.01
+E14001398,North Shropshire,West Midlands,0.2,0.13,0.48,0.15,0.04
+E14001449,Romsey and Southampton North,South East,0.36,0.12,0.38,0.11,0.03
+E14001481,South Cambridgeshire,East of England,0.24,0.12,0.46,0.12,0.06
+E14001482,South Cotswolds,South West,0.27,0.09,0.43,0.16,0.05
+E14001484,South Devon,South West,0.32,0.13,0.35,0.16,0.04
+E14001511,St Ives,South West,0.22,0.09,0.53,0.12,0.04
+E14001512,St Neots and Mid Cambridgeshire,East of England,0.3,0.17,0.33,0.14,0.06
+E14001526,Stratford-on-Avon,West Midlands,0.33,0.11,0.36,0.15,0.05
+E14001532,Surrey Heath,South East,0.3,0.08,0.42,0.15,0.05
+E14001534,Sutton and Cheam,London,0.3,0.14,0.39,0.12,0.05
+E14001540,Taunton and Wellington,South West,0.23,0.08,0.48,0.17,0.04
+E14001545,Thornbury and Yate,South West,0.31,0.12,0.39,0.15,0.03
+E14001548,Tiverton and Minehead,South West,0.3,0.12,0.35,0.19,0.04
+E14001551,Torbay,South West,0.26,0.1,0.42,0.18,0.04
+E14001555,Tunbridge Wells,South East,0.31,0.14,0.4,0.12,0.03
+E14001572,Wells and Mendip Hills,South West,0.26,0.08,0.47,0.13,0.06
+E14001575,West Dorset,South West,0.33,0.09,0.53,0.0,0.05
+E14001580,Westmorland and Lonsdale,North West,0.2,0.06,0.57,0.14,0.03
+E14001586,Wimbledon,London,0.23,0.13,0.52,0.07,0.05
+E14001587,Winchester,South East,0.29,0.07,0.51,0.1,0.03
+E14001591,Witney,South East,0.31,0.16,0.38,0.13,0.02
+E14001592,Woking,South East,0.25,0.13,0.48,0.08,0.06
+E14001593,Wokingham,South East,0.31,0.1,0.46,0.1,0.03
+E14001603,Yeovil,South West,0.27,0.08,0.48,0.12,0.05
+W07000085,"Brecon, Radnor and Cwm Tawe",Wales,0.28,0.18,0.33,0.14,0.07
+S14000069,"Caithness, Sutherland and Easter Ross",Scotland,0.09,0.12,0.29,0.08,0.42
+S14000097,Mid Dunbartonshire,Scotland,0.09,0.21,0.29,0.07,0.34
+S14000100,North East Fife,Scotland,0.06,0.1,0.44,0.07,0.33
+E14001080,Bath,South West,0.14,0.12,0.53,0.09,0.12
+E14001312,Kingston and Surbiton,London,0.1,0.08,0.57,0.11,0.14
+E14001420,Oxford West and Abingdon,South East,0.12,0.09,0.61,0.1,0.08
+E14001445,Richmond Park,London,0.17,0.06,0.64,0.07,0.06
+E14001507,St Albans,East of England,0.14,0.07,0.62,0.09,0.08
+E14001556,Twickenham,London,0.13,0.08,0.63,0.08,0.08
+S14000051,Orkney and Shetland,Scotland,0.05,0.08,0.38,0.11,0.38
+W07000087,Caerfyrddin,Wales,0.23,0.26,0.03,0.13,0.35
+W07000112,Ynys Mon,Wales,0.21,0.27,0.03,0.14,0.35
+W07000093,Ceredigion Preseli,Wales,0.14,0.14,0.13,0.14,0.45
+W07000096,Dwyfor Meirionnydd,Wales,0.12,0.15,0.04,0.15,0.54
+E14001068,Ashfield,East Midlands,0.15,0.29,0.04,0.32,0.2
+E14001077,Basildon and Billericay,East of England,0.26,0.28,0.11,0.3,0.05
+E14001174,Clacton,East of England,0.25,0.18,0.06,0.45,0.06
+E14001256,Great Yarmouth,East of England,0.24,0.31,0.05,0.36,0.04
+E14001343,Louth and Horncastle,East Midlands,0.33,0.24,0.04,0.35,0.04
+S14000058,West Aberdeenshire and Kincardine,Scotland,0.32,0.13,0.06,0.11,0.38
+S14000082,Edinburgh West,Scotland,0.04,0.13,0.25,0.1,0.48
+S14000006,"Ayr, Carrick and Cumnock",Scotland,0.19,0.29,0.03,0.08,0.41
+S14000021,East Renfrewshire,Scotland,0.11,0.35,0.04,0.07,0.43
+S14000040,Kilmarnock and Loudoun,Scotland,0.1,0.36,0.04,0.1,0.4
+S14000048,North Ayrshire and Arran,Scotland,0.08,0.29,0.03,0.08,0.52
+S14000060,Aberdeen North,Scotland,0.07,0.26,0.06,0.08,0.53
+S14000061,Aberdeen South,Scotland,0.19,0.24,0.08,0.07,0.42
+S14000065,Angus and Perthshire Glens,Scotland,0.25,0.17,0.03,0.08,0.47
+S14000066,Arbroath and Broughty Ferry,Scotland,0.08,0.27,0.04,0.09,0.52
+S14000067,"Argyll, Bute and South Lochaber",Scotland,0.21,0.21,0.09,0.08,0.41
+S14000075,Dundee Central,Scotland,0.06,0.36,0.05,0.07,0.46
+S14000078,Edinburgh East and Musselburgh,Scotland,0.05,0.33,0.05,0.06,0.51
+S14000079,Edinburgh North and Leith,Scotland,0.07,0.36,0.08,0.05,0.44
+S14000081,Edinburgh South West,Scotland,0.06,0.33,0.05,0.06,0.5
+S14000083,Falkirk,Scotland,0.06,0.33,0.04,0.1,0.47
+S14000094,"Inverness, Skye and West Ross-shire",Scotland,0.05,0.24,0.11,0.08,0.52
+S14000098,"Moray West, Nairn and Strathspey",Scotland,0.27,0.2,0.04,0.07,0.42
+S14000103,Perth and Kinross-shire,Scotland,0.26,0.2,0.05,0.07,0.42
+S14000105,Stirling and Strathallan,Scotland,0.16,0.27,0.04,0.07,0.46
