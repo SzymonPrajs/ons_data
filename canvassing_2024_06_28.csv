@@ -47,7 +47,7 @@ Carterton South,FN,3 CS FN1 (Gateway),1476,85,16,16,16,170,30,130,28,8,17,1,1,0,
 Carterton South,FN2,3 CS FN2 (BN Base),58,1,0,0,0,2,0,0,0,0,0,0,0,0,56,2,38,0,0,0,16,0,0,2
 Carterton South,FN3,3 CS FN3 (Milestone),1811,280,58,58,58,266,31,178,61,16,14,2,4,2,1237,263,63,63,53,180,1095,18,62,14
 Ducklington,GA,4 Duck GA (Curbridge),805,22,7,7,4,108,12,36,36,15,12,2,0,0,584,108,30,38,37,36,547,3,0,6
-Ducklington,GC,4 Duck GC (Ducklington),1268,41,23,23,23,144,12,97,32,54,13,3,1,911,144,88,28,81,100,763,17,42,5
+Ducklington,GC,4 Duck GC (Ducklington),1268,41,23,23,23,144,12,97,32,54,13,3,1,911,144,88,28,81,100,0,763,17,42,5
 Ducklington,HA,4 Duck HA (Lew),49,5,4,4,0,4,0,0,0,0,0,0,0,0,45,4,16,0,0,0,28,0,0,1
 "Standlake, Aston and Stanton Harcourt",FD,4 SASH FD (Aston),1156,826,330,32,28,307,49,125,43,4,8,0,1,2,617,306,72,60,35,127,515,11,19,11
 "Standlake, Aston and Stanton Harcourt",GQ,4 SASH GQ (Hardwick),75,12,9,4,4,13,1,8,1,0,0,0,0,0,52,13,1,1,0,9,51,0,0,0
