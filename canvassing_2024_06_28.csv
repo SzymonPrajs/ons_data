@@ -1,10 +1,10 @@
-WD23NM,PD_ID,PD_Name,Total,Contacts_2024,Canvassed_2024,Contacts_GE,Canvassed_GE,Lib Dem,Potential LD,Tory,Potential Tory,Labour,Potential Labour,Green,Potential Green,Others,Unknown,Supporters,Switch Europe,Switch,Squeeze,Stay at home,Switch+,Squeeze+,Stay at Home+,Unknown
-Faringdon,TGA,1 Far TGA (Faringdon),"6,606",1604,510,469,441,743,133,211,73,46,53,4,4,12,5327,739,891,103,187,212,3961,298,32,183
+WD23NM,PD_ID,PD_Name,Total,Contacts_2024,Canvassed_2024,Contacts_GE,Canvassed_GE,Lib Dem,Potential LD,Tory,Potential Tory,Labour,Potential Labour,Green,Potential Green,Others,Unknown,Supporters,Switch Europe,Switch,Squeeze,Stay at home,Switch+,Squeeze+,Stay at Home+,Unassigned
+Faringdon,TGA,1 Far TGA (Faringdon),6606,1604,510,469,441,743,133,211,73,46,53,4,4,12,5327,739,891,103,187,212,3961,298,32,183
 Kingston Bagpuize,TKA,1 King TKA (Charney B),231,2,1,1,1,4,0,0,1,1,0,0,0,0,225,4,38,0,1,0,181,0,5,2
 Kingston Bagpuize,TKB,1 King TKB (Frilford),194,5,3,3,3,10,0,6,2,0,0,0,0,0,176,10,55,1,0,6,119,0,2,1
 Kingston Bagpuize,TKC,1 King TKC (Garford),132,2,2,2,2,3,0,5,0,0,2,0,0,1,121,3,22,0,2,6,97,0,2,0
 Kingston Bagpuize,TKD,1 King TKD (Goosey),118,0,0,0,0,2,2,0,0,0,0,0,0,0,114,2,23,0,2,0,91,0,0,0
-Kingston Bagpuize,TKE,1 King TKE (KB & S.Moor),"3,062",1076,355,355,340,453,50,179,40,19,30,2,2,10,2277,452,530,42,84,181,1694,1,50,28
+Kingston Bagpuize,TKE,1 King TKE (KB & S.Moor),3062,1076,355,355,340,453,50,179,40,19,30,2,2,10,2277,452,530,42,84,181,1694,1,50,28
 Kingston Bagpuize,TKF,1 King TKF (Lyford),36,2,0,0,0,1,0,1,0,0,2,0,0,0,32,1,9,0,2,1,23,0,0,0
 Thames,TEA,1 Tham TEA (Appleton),753,48,20,19,19,211,59,68,27,3,10,0,2,5,368,211,214,37,45,71,153,0,7,15
 Thames,TEB,1 Tham TEB (Besselsleigh),113,35,8,0,0,10,2,15,0,1,0,0,0,0,85,10,18,0,3,14,64,0,1,3
@@ -24,46 +24,46 @@ Watchfield and Shrivenham,TTG,1 W&S TTG (Fernham),214,2,0,0,0,5,2,2,0,0,0,0,0,0,
 Watchfield and Shrivenham,TTH,1 W&S TTH (Great Coxwell),241,7,2,2,2,17,0,3,4,1,0,0,0,0,216,17,50,2,1,3,164,0,4,0
 Watchfield and Shrivenham,TTI,1 W&S TTI (Lttle Coxwell),113,0,0,0,0,0,0,0,0,0,0,0,0,0,113,0,17,0,0,0,96,0,0,0
 Watchfield and Shrivenham,TTJ,1 W&S TTJ (Longcot),439,2,0,0,0,6,0,1,1,0,0,0,0,0,431,6,78,1,0,1,338,0,13,2
-Watchfield and Shrivenham,TTK,1 W&S TTK (Shrivenham),"2,674",821,324,301,301,176,27,56,21,14,12,1,3,5,2359,176,576,29,48,57,1696,4,64,24
-Watchfield and Shrivenham,TTL,1 W&S TTL (Watchfield),"1,399",217,63,3,3,38,4,12,1,5,1,0,0,0,1338,38,442,2,9,11,835,20,0,42
-Witney Central,JD,2 WitC JD1 (Wit Central),"1,308",195,88,53,53,99,18,53,16,57,32,5,1,8,1019,96,49,26,99,69,875,75,16,3
-Witney Central,JD2,2 WitC JD2 (Town Center),"2,921",1499,480,479,479,345,82,157,54,98,48,1,3,11,2122,340,192,66,200,171,1652,222,36,42
+Watchfield and Shrivenham,TTK,1 W&S TTK (Shrivenham),2674,821,324,301,301,176,27,56,21,14,12,1,3,5,2359,176,576,29,48,57,1696,4,64,24
+Watchfield and Shrivenham,TTL,1 W&S TTL (Watchfield),1399,217,63,3,3,38,4,12,1,5,1,0,0,0,1338,38,442,2,9,11,835,20,0,42
+Witney Central,JD,2 WitC JD1 (Wit Central),1308,195,88,53,53,99,18,53,16,57,32,5,1,8,1019,96,49,26,99,69,875,75,16,3
+Witney Central,JD2,2 WitC JD2 (Town Center),2921,1499,480,479,479,345,82,157,54,98,48,1,3,11,2122,340,192,66,200,171,1652,222,36,42
 Witney East,JE,2 WitE JE1 (Wit East 1),879,166,60,60,60,61,13,48,15,13,11,0,2,1,715,61,127,21,33,46,536,20,27,8
-Witney East,JE2,2 WitE JE2 (Wit East 2),"1,660",603,228,228,197,166,58,130,40,85,43,4,3,8,1123,165,120,49,170,145,789,177,36,9
+Witney East,JE2,2 WitE JE2 (Wit East 2),1660,603,228,228,197,166,58,130,40,85,43,4,3,8,1123,165,120,49,170,145,789,177,36,9
 Witney East,JF,2 WitE JF1 (Wit East 3),911,474,168,168,164,96,25,38,13,25,22,0,0,5,687,96,46,16,65,42,623,15,3,5
-Witney East,JF2,2 WitE JF2 (Wit East 4),"2,147",1345,400,389,389,271,54,97,40,32,43,3,6,6,1595,268,414,42,119,94,914,246,14,36
-Witney North,JG,2 WitN JG (Wit North 1),"1,621",1342,701,153,151,291,185,203,105,39,56,18,38,15,671,287,140,163,261,232,499,6,18,15
-Witney North,JH,2 WitN JH (Wit North 2),"1,339",1166,625,229,229,254,97,134,106,47,38,5,16,23,619,245,58,127,166,162,481,86,9,5
-Witney South,JI,2 WitS JI (Burwell),"1,818",1415,589,568,568,247,70,94,45,44,53,0,2,15,1248,245,47,67,138,108,990,136,77,10
-Witney South,JJ,2 WitS JJ (Wit South),"2,440",687,258,212,210,185,64,106,45,65,46,3,8,10,1908,181,102,54,164,115,1472,328,4,20
+Witney East,JF2,2 WitE JF2 (Wit East 4),2147,1345,400,389,389,271,54,97,40,32,43,3,6,6,1595,268,414,42,119,94,914,246,14,36
+Witney North,JG,2 WitN JG (Wit North 1),1621,1342,701,153,151,291,185,203,105,39,56,18,38,15,671,287,140,163,261,232,499,6,18,15
+Witney North,JH,2 WitN JH (Wit North 2),1339,1166,625,229,229,254,97,134,106,47,38,5,16,23,619,245,58,127,166,162,481,86,9,5
+Witney South,JI,2 WitS JI (Burwell),1818,1415,589,568,568,247,70,94,45,44,53,0,2,15,1248,245,47,67,138,108,990,136,77,10
+Witney South,JJ,2 WitS JJ (Wit South),2440,687,258,212,210,185,64,106,45,65,46,3,8,10,1908,181,102,54,164,115,1472,328,4,20
 Witney South,JK,2 WitS JK (Burwell Mead),307,38,12,1,1,14,4,22,2,6,4,0,3,0,252,14,33,1,17,19,200,20,3,0
 Witney West,JL,2 WitW JL (Thorney Leys),977,597,172,7,7,108,31,120,47,20,30,2,0,1,618,108,60,43,70,124,536,10,15,11
-Witney West,JM,2 WitW JM (Deer Park),"3,701",2758,"1,051",236,175,553,150,321,180,86,99,3,4,11,2294,547,529,191,273,321,1723,56,30,31
-Carterton North East,FM3,3 CNE FM3 (Central),"1,499",84,24,24,24,89,16,54,28,10,11,4,0,1,1286,89,120,27,37,50,833,286,33,24
-Carterton North East,FM4,3 CNE FM4 (ShiltonP),"2,471",796,205,205,169,309,79,143,80,15,26,2,1,12,1804,308,357,89,89,154,1191,229,22,32
-Carterton North West,FM,3 CNW FM1 (Rock Fm),"1,683",90,42,42,42,191,28,71,30,7,3,0,1,11,1341,187,73,35,27,84,964,284,0,29
-Carterton North West,FM2,3 CNW FM2 (Shillbrook),"2,175",1367,365,365,164,443,81,128,52,8,13,1,2,17,1430,440,198,97,48,145,1092,103,29,23
-Carterton South,FN,3 CS FN1 (Gateway),"1,476",85,16,16,16,170,30,130,28,8,17,1,1,0,1091,169,174,38,41,135,834,48,19,18
+Witney West,JM,2 WitW JM (Deer Park),3701,2758,1051,236,175,553,150,321,180,86,99,3,4,11,2294,547,529,191,273,321,1723,56,30,31
+Carterton North East,FM3,3 CNE FM3 (Central),1499,84,24,24,24,89,16,54,28,10,11,4,0,1,1286,89,120,27,37,50,833,286,33,24
+Carterton North East,FM4,3 CNE FM4 (ShiltonP),2471,796,205,205,169,309,79,143,80,15,26,2,1,12,1804,308,357,89,89,154,1191,229,22,32
+Carterton North West,FM,3 CNW FM1 (Rock Fm),1683,90,42,42,42,191,28,71,30,7,3,0,1,1341,187,73,35,27,84,964,284,0,29
+Carterton North West,FM2,3 CNW FM2 (Shillbrook),2175,1367,365,365,164,443,81,128,52,8,13,1,2,17,1430,440,198,97,48,145,1092,103,29,23
+Carterton South,FN,3 CS FN1 (Gateway),1476,85,16,16,16,170,30,130,28,8,17,1,1,0,1091,169,174,38,41,135,834,48,19,18
 Carterton South,FN2,3 CS FN2 (BN Base),58,1,0,0,0,2,0,0,0,0,0,0,0,0,56,2,38,0,0,0,16,0,0,2
-Carterton South,FN3,3 CS FN3 (Milestone),"1,811",280,58,58,58,266,31,178,61,16,14,2,4,2,1237,263,63,63,53,180,1095,18,62,14
+Carterton South,FN3,3 CS FN3 (Milestone),1811,280,58,58,58,266,31,178,61,16,14,2,4,2,1237,263,63,63,53,180,1095,18,62,14
 Ducklington,GA,4 Duck GA (Curbridge),805,22,7,7,4,108,12,36,36,15,12,2,0,0,584,108,30,38,37,36,547,3,0,6
-Ducklington,GC,4 Duck GC (Ducklington),"1,268",41,23,23,23,144,12,97,32,54,13,3,1,1,911,144,88,28,81,100,763,17,42,5
+Ducklington,GC,4 Duck GC (Ducklington),1268,41,23,23,23,144,12,97,32,54,13,3,1,911,144,88,28,81,100,763,17,42,5
 Ducklington,HA,4 Duck HA (Lew),49,5,4,4,0,4,0,0,0,0,0,0,0,0,45,4,16,0,0,0,28,0,0,1
-"Standlake, Aston and Stanton Harcourt",FD,4 SASH FD (Aston),"1,156",826,330,32,28,307,49,125,43,4,8,0,1,2,617,306,72,60,35,127,515,11,19,11
+"Standlake, Aston and Stanton Harcourt",FD,4 SASH FD (Aston),1156,826,330,32,28,307,49,125,43,4,8,0,1,2,617,306,72,60,35,127,515,11,19,11
 "Standlake, Aston and Stanton Harcourt",GQ,4 SASH GQ (Hardwick),75,12,9,4,4,13,1,8,1,0,0,0,0,0,52,13,1,1,0,9,51,0,0,0
 "Standlake, Aston and Stanton Harcourt",HH,4 SASH HH (Northmoor),347,181,75,16,12,95,19,40,5,1,3,0,0,1,183,95,28,11,12,38,161,0,0,2
-"Standlake, Aston and Stanton Harcourt",HT,4 SASH HT (Standlake),"1,172",866,381,82,81,332,79,196,42,1,5,0,1,4,512,328,103,68,41,202,424,0,2,4
+"Standlake, Aston and Stanton Harcourt",HT,4 SASH HT (Standlake),1172,866,381,82,81,332,79,196,42,1,5,0,1,4,512,328,103,68,41,202,424,0,2,4
 "Standlake, Aston and Stanton Harcourt",HU,4 SASH HU (Stanton H),968,664,335,38,28,246,73,106,39,9,15,0,1,7,472,239,61,55,59,113,421,0,14,6
-Bampton and Clanfield,FE,5 B&C FE (Bampton),"2,514",746,284,267,267,488,87,208,25,15,8,2,7,7,1667,485,296,61,70,205,1337,14,32,14
+Bampton and Clanfield,FE,5 B&C FE (Bampton),2514,746,284,267,267,488,87,208,25,15,8,2,7,7,1667,485,296,61,70,205,1337,14,32,14
 Bampton and Clanfield,FF,5 B&C FF (Black Bourton),217,12,8,8,8,18,3,12,8,2,3,0,0,0,171,18,24,7,7,6,142,0,7,6
 Bampton and Clanfield,FV,5 B&C FV (Clanfield),719,24,13,13,13,95,14,54,8,5,4,2,0,1,536,95,53,13,17,54,404,64,16,3
 Brize Norton and Shilton,FC,5 Briz FC (Asthal),212,9,7,7,7,9,1,1,2,0,0,1,1,0,197,9,29,2,3,1,153,0,14,1
-Brize Norton and Shilton,FI,5 Briz FI (Brize Norton),"1,360",159,51,14,14,56,9,28,14,6,4,1,0,4,1238,56,66,13,14,25,1142,4,16,24
+Brize Norton and Shilton,FI,5 Briz FI (Brize Norton),1360,159,51,14,14,56,9,28,14,6,4,1,0,4,1238,56,66,13,14,25,1142,4,16,24
 Brize Norton and Shilton,HP,5 Briz HP (Shilton),491,5,3,3,3,22,4,9,1,0,0,0,0,0,455,22,31,3,1,6,422,0,3,3
 Brize Norton and Shilton,HY,5 Briz HY (Swinbrook),122,2,0,0,0,2,0,1,0,0,0,0,0,0,119,2,16,0,0,1,96,0,0,7
 Ascott and Shipton,FB,6 A&S FB (Ascott),457,62,27,27,27,94,32,76,26,8,13,1,1,1,205,93,68,30,37,75,146,2,2,4
 Ascott and Shipton,HD,6 A&S HD (Lyneham),132,0,0,0,0,18,4,11,1,2,0,0,0,0,96,18,15,2,5,10,75,0,5,2
-Ascott and Shipton,HQ,6 A&S HQ (Shipton),"1,159",70,44,44,44,219,73,155,46,15,17,1,1,3,629,213,153,63,61,157,496,0,7,9
+Ascott and Shipton,HQ,6 A&S HQ (Shipton),1159,70,44,44,44,219,73,155,46,15,17,1,1,3,629,213,153,63,61,157,496,0,7,9
 Alvescot and Filkins,FA,6 AlvF FA (Alvescot),386,6,5,4,4,7,0,4,0,0,1,9,0,0,365,7,63,0,9,2,288,0,10,7
 Alvescot and Filkins,FJ,6 AlvF FJ (Broadwell),102,2,0,0,0,4,0,4,0,0,0,0,0,0,94,4,16,0,0,3,78,0,0,1
 Alvescot and Filkins,GH,6 AlvF GH (Filkins),338,8,5,5,5,23,4,5,0,1,0,0,0,0,305,23,47,1,4,5,257,0,0,1
@@ -74,15 +74,15 @@ Alvescot and Filkins,GV,6 AlvF GV (Kencot),85,2,0,0,0,1,0,2,0,0,0,0,0,0,82,1,1,0
 Alvescot and Filkins,GY,6 AlvF GY (Langford),275,6,4,4,4,11,0,0,1,0,0,0,0,1,262,11,14,2,0,1,246,0,0,1
 Alvescot and Filkins,HB,6 AlvF HB (LitFaringdon),52,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,8,0,0,0,43,0,0,1
 Alvescot and Filkins,JC,6 AlvF JC (Westwell),44,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,4,0,0,0,40,0,0,0
-Burford,FL,6 Bfd FL Burford,"1,253",274,163,112,111,140,82,98,42,8,8,1,2,4,868,140,134,82,42,98,709,19,18,11
+Burford,FL,6 Bfd FL Burford,1253,274,163,112,111,140,82,98,42,8,8,1,2,4,868,140,134,82,42,98,709,19,18,11
 Burford,GK,6 Bfd GK (Fulbrook),355,100,46,29,29,42,24,29,7,6,6,0,0,0,241,42,24,24,18,28,218,0,0,1
 Burford,JA,6 Bfd JA (Taynton),82,17,8,2,2,13,6,3,2,0,0,0,0,0,58,13,3,8,0,3,51,0,2,2
 Milton-under-Wychwood,FK,6 MiUW FK (Bruern),54,11,5,3,3,5,0,1,1,0,0,0,0,0,47,5,7,1,0,1,39,0,0,1
 Milton-under-Wychwood,GG,6 MiUW GG (Fifield),155,100,34,0,0,14,3,16,7,0,0,0,0,1,114,14,9,7,1,18,106,0,0,0
 Milton-under-Wychwood,GT,6 MiUW GT (Idbury),99,38,7,0,0,11,2,9,3,3,0,0,0,0,71,11,5,4,3,9,64,0,3,0
-Milton-under-Wychwood,HE,6 MiUW HE (MiltonUWych),"1,472",1145,616,152,125,304,140,233,112,29,19,2,6,15,612,303,107,154,121,247,514,0,15,11
+Milton-under-Wychwood,HE,6 MiUW HE (MiltonUWych),1472,1145,616,152,125,304,140,233,112,29,19,2,6,15,612,303,107,154,121,247,514,0,15,11
 "Hailey, Minster Lovell and Leafield",FZ,7 HMLL FZ (Crawley),126,63,13,2,0,13,3,21,4,0,0,0,0,0,85,13,8,5,0,21,76,0,3,0
 "Hailey, Minster Lovell and Leafield",GO,7 HMLL GO (Hailey),970,520,215,42,42,187,69,140,44,20,21,3,1,8,477,183,53,61,76,153,430,0,5,9
 "Hailey, Minster Lovell and Leafield",GZ,7 HMLL GZ (Leafield),699,392,161,41,39,199,65,87,38,11,7,1,0,9,282,197,63,65,52,96,211,0,9,6
-"Hailey, Minster Lovell and Leafield",HF,7 HMLL HF (Minster L),"1,327",933,364,42,22,219,94,234,95,13,15,0,1,15,641,216,91,134,50,252,571,3,9,1
+"Hailey, Minster Lovell and Leafield",HF,7 HMLL HF (Minster L),1327,933,364,42,22,219,94,234,95,13,15,0,1,15,641,216,91,134,50,252,571,3,9,1
 "Hailey, Minster Lovell and Leafield",HJ,7 HMLL HJ (Ramsden),271,194,77,9,9,48,24,39,21,2,6,0,0,2,129,46,19,30,18,44,108,0,6,0
